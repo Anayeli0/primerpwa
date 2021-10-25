@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1635200650656,
+  "index": "https://Anayeli0.github.io/primerpwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Anayeli0.github.io/primerpwa/favicon.ico",
+        "https://Anayeli0.github.io/primerpwa/index.html",
+        "https://Anayeli0.github.io/primerpwa/main.0098a17c7d11dc60c3f8.js",
+        "https://Anayeli0.github.io/primerpwa/manifest.webmanifest",
+        "https://Anayeli0.github.io/primerpwa/polyfills.77a1993727a31fa030dd.js",
+        "https://Anayeli0.github.io/primerpwa/runtime.18821b64a88c577ecb6a.js",
+        "https://Anayeli0.github.io/primerpwa/styles.11cf6b3a7e166a1bde8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-128x128.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-144x144.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-152x152.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-192x192.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-384x384.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-512x512.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-72x72.png",
+        "https://Anayeli0.github.io/primerpwa/assets/icons/icon-96x96.png",
+        "https://Anayeli0.github.io/primerpwa/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-128x128.png": "7b03ade12dc2f817f5932b1c4c190b21577ffdb4",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-144x144.png": "6fd729b0452cadd3efc4430e6a25d14277955dac",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-152x152.png": "49ba68262d131c1a104c9a048da9ffd13d46c05a",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-192x192.png": "1cd5a9f4351a46e411d4745bbcb05df874c44d69",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-384x384.png": "96923ef3ecb3bbae003fb76321a4184fe2c28742",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-512x512.png": "73b199780e2f7f96d597ff0a394f4376f5616423",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-72x72.png": "ba540ec530a04a1fd6bfbba378b3914f6c399c7c",
+    "https://Anayeli0.github.io/primerpwa/assets/icons/icon-96x96.png": "a62abfcf37b4f4774eb571404b4b39a362a825d8",
+    "https://Anayeli0.github.io/primerpwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://Anayeli0.github.io/primerpwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Anayeli0.github.io/primerpwa/index.html": "e5e80a7999192bd2838aeb1d459c89879685ba4a",
+    "https://Anayeli0.github.io/primerpwa/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
+    "https://Anayeli0.github.io/primerpwa/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
+    "https://Anayeli0.github.io/primerpwa/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
+    "https://Anayeli0.github.io/primerpwa/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
+    "https://Anayeli0.github.io/primerpwa/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
